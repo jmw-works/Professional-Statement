@@ -1,1 +1,1 @@
-# pro-statement
+I am a driven and analytical cybersecurity enthusiast with strong communication skills, critical thinking, and a growing proficiency in Python scripting and vulnerability assessment tools. I value integrity, accountability, and the responsible use of technology to protect both people and systems. By combining my proactive mindset, technical skills, and ethical commitment, I aim to help organizations strengthen their security posture, reduce risk, and safeguard sensitive data from evolving threats.
